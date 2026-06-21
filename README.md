@@ -1,4 +1,6 @@
-# Mai2DC Update Checker
+# [ARCHIVED] Mai2DC Update Checker
+
+> **Note:** This repository has been archived and moved to [https://github.com/xydesu/Arcade-Update-Bot](https://github.com/xydesu/Arcade-Update-Bot).
 
 Mai2DC is a Node.js program that downloads JSON data, compares two JSON files, and posts new updates to Discord.
 (International ver. Only)
